@@ -7,3 +7,6 @@ streamlit run main.py
 
 ### Note
 If you guys want to know how to build the model, you can check out the "Plant diseases prediction.ipynb" file in this repo.
+
+### Link to dataset
+https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
